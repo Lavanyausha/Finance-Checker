@@ -114,7 +114,7 @@ server.get('/api/summary/:month', (req, res) => {
 // Default json-server router (for direct db access as fallback)
 server.use(router);
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 server.listen(PORT, () => {
   console.log('');
   console.log('  ╔══════════════════════════════════════════╗');
