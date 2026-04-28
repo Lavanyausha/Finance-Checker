@@ -1,0 +1,81 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "type": "Income",
+      "amount": 50000,
+      "category": "Salary",
+      "date": "2026-04-01"
+    },
+    {
+      "id": 2,
+      "type": "Expense",
+      "amount": 2500,
+      "category": "Food",
+      "date": "2026-04-03"
+    },
+    {
+      "id": 3,
+      "type": "Expense",
+      "amount": 8500,
+      "category": "Bills",
+      "date": "2026-04-05"
+    },
+    {
+      "id": 4,
+      "type": "Expense",
+      "amount": 3200,
+      "category": "Travel",
+      "date": "2026-04-10"
+    },
+    {
+      "id": 5,
+      "type": "Income",
+      "amount": 5000,
+      "category": "Others",
+      "date": "2026-04-15"
+    },
+    {
+      "id": 6,
+      "type": "Expense",
+      "amount": 1800,
+      "category": "Food",
+      "date": "2026-04-18"
+    },
+    {
+      "id": 7,
+      "type": "Expense",
+      "amount": 4500,
+      "category": "Bills",
+      "date": "2026-04-22"
+    },
+    {
+      "id": 8,
+      "type": "Income",
+      "amount": 50000,
+      "category": "Salary",
+      "date": "2026-03-01"
+    },
+    {
+      "id": 9,
+      "type": "Expense",
+      "amount": 6000,
+      "category": "Travel",
+      "date": "2026-03-12"
+    },
+    {
+      "id": 10,
+      "type": "Expense",
+      "amount": 3500,
+      "category": "Food",
+      "date": "2026-03-20"
+    },
+    {
+      "id": 11,
+      "type": "Expense",
+      "amount": 2500,
+      "category": "Food",
+      "date": "2026-04-25"
+    }
+  ]
+}
